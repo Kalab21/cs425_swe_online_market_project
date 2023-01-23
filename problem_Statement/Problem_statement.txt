@@ -1,2 +1,2 @@
-This is my project github url
-This folder contan word pdf prblem statement, Context diagram and Use case dagram.
+This is my project github url https://github.com/Kalab21/cs425_swe_online_market_project
+This folder also contans a word pdf prblem statement, Context diagram and Use case dagram.
